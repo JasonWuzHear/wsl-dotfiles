@@ -1,0 +1,15 @@
+[submodule "wsl"]
+	path = wsl
+	url = ../wsl
+[submodule "tmux"]
+	path = tmux
+	url = ../tmux
+[submodule "vim"]
+	path = vim
+	url = ../vim
+[submodule "zsh"]
+	path = zsh
+	url = ../zsh
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = ../oh-my-zsh

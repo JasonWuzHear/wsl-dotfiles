@@ -10,3 +10,9 @@
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
 	url = ../oh-my-zsh
+[submodule "bash"]
+	path = bash
+	url = ../bash
+[submodule "zsh"]
+	path = zsh
+	url = ../zsh

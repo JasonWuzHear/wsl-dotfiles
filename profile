@@ -13,3 +13,6 @@ PATH="$HOME/bin:$HOME/.local/bin:$PATH"
 
 # set docker to run through windows
 export DOCKER_HOST=tcp://localhost:2375
+
+# set vim as git's editor
+export GIT_EDITOR=vim

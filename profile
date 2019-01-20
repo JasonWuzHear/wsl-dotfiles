@@ -10,3 +10,6 @@
 
 # set PATH so it includes user's private bin directories
 PATH="$HOME/bin:$HOME/.local/bin:$PATH"
+
+# set docker to run through windows
+export DOCKER_HOST=tcp://localhost:2375

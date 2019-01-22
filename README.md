@@ -10,3 +10,8 @@ Clone into the home directory and symlink the following:
 - `ln -sn ~/wsl-dotfiles/tmuc ~/.tmux`
 
 Follow instructions in the other repos' `README.md` files for setup there.
+
+# Recommended software and links
+- ssh-ident: https://github.com/ccontavalli/ssh-ident
+- wsltty (install through chocolatey): https://github.com/mintty/wsltty
+- consolas nf font: https://github.com/whitecolor/my-nerd-fonts

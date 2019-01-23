@@ -9,9 +9,9 @@ Contains dotfiles for my wsl setup
 `cd dotfiles`
 ```
 ln -sf ~/dotfiles/profile ~/.profile
-\ ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh
-\ ln -sfn ~/dotfiles/vim ~/.vim
-\ ln -sfn ~/dotfiles/tmuc ~/.tmux
+\ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh
+\ln -sfn ~/dotfiles/vim ~/.vim
+\ln -sfn ~/dotfiles/tmuc ~/.tmux
 ```
 
 ### git lfs

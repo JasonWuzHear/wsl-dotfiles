@@ -16,7 +16,10 @@ ln -sf ~/dotfiles/profile ~/.profile
 https://github.com/git-lfs/git-lfs/wiki/Installation
 
 ### zsh
-`sudo apt install zsh`
+```
+sudo apt install zsh
+chsh -s $(which zsh)
+```
 
 ### install children
 Follow instructions in the child repos' `README.md` files for setup there.

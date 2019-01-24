@@ -18,6 +18,9 @@ sudo apt install zsh
 chsh -s $(which zsh)
 ```
 
+### powerline:
+https://powerline.readthedocs.io/en/latest/
+
 ### install children
 Follow instructions in the child repos' `README.md` files for setup there.
 

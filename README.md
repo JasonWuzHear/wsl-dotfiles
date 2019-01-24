@@ -7,9 +7,6 @@ git clone https://github.com/JasonWuzHear/wsl-dotfiles.git dotfiles
 cd dotfiles
 
 ln -sf ~/dotfiles/profile ~/.profile
-\ln -sfn ~/dotfiles/oh-my-zsh ~/.oh-my-zsh
-\ln -sfn ~/dotfiles/vim ~/.vim
-\ln -sfn ~/dotfiles/tmux ~/.tmux
 ```
 
 ### git lfs

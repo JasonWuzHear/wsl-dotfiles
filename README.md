@@ -19,7 +19,9 @@ chsh -s $(which zsh)
 ```
 
 ### powerline:
-https://powerline.readthedocs.io/en/latest/
+1. install pip3: `sudo apt install python3-pip`
+2. Follow instructions here:
+https://powerline.readthedocs.io/en/latest/installation.html
 
 ### install children
 Follow instructions in the child repos' `README.md` files for setup there.

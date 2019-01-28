@@ -1,5 +1,11 @@
 # wsl-dotfiles
-Contains dotfiles for my wsl setup
+Contains dotfiles for my wsl setup.
+
+TODO:
+1. Finish setup for Unity, Django dev environments.
+2. Write setup script for whole setup environment.
+3. Organize repo s.t. dev environment setup for Unity, Django (and others later) are separated.
+4. Write setup scripts for each dev environment.
 
 # Installation
 ```

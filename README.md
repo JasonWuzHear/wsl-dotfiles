@@ -29,8 +29,6 @@ chsh -s $(which zsh)
 2. Follow instructions here:
 https://powerline.readthedocs.io/en/latest/installation.html
 
-### uncrustify:
-`sudo apt get uncrustify`
 
 ### install children
 Follow instructions in the child repos' `README.md` files for setup there.

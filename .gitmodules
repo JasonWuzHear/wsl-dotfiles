@@ -13,6 +13,3 @@
 [submodule "bash"]
 	path = bash
 	url = ../bash
-[submodule "uncrustify"]
-	path = uncrustify
-	url = ../uncrustify
